@@ -9,6 +9,7 @@ class VariablesTest {
         val flavor = "Vanilla"
 
         // TODO: change the flavor
+        // flavor = "Chocolate"
 
         println(flavor)
     }
@@ -18,6 +19,7 @@ class VariablesTest {
         var flavor = "Vanilla"
 
         // TODO: change the flavor
+        flavor = "Chocolate"
 
         println(flavor)
     }
